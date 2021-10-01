@@ -1,0 +1,41 @@
+Question 1
+    a)  count    1000.000000
+        mean      314.154000
+        std        13.981336
+        min       263.000000
+        25%       304.000000
+        50%       315.000000
+        75%       324.000000
+        max       354.000000
+
+    b) 4.0
+
+    c) Recomended bin width is 10.0
+
+    d)
+
+
+Question 2
+    a) Group 0:
+        Min = 263
+        Q1 = 294
+        Median = 300
+        Q3 = 306
+        Max = 322
+
+        IQR = 12
+        Lower Wisker = Q1-1.5*IQR = 276
+        Upper Wisker = Q3+1.5*IQR = 324
+
+       Group 1
+        Min = 291
+        Q1 = 314
+        Median = 321
+        Q3 = 327
+        Max = 354
+
+        IQR = 13
+        Lower Wisker = 294.5
+        Upper Wisker = 346.5
+
+    b) 
