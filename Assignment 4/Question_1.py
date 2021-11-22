@@ -35,7 +35,7 @@ def RowWithColumn (
 
    return
 
-inputData = pandas.read_csv('C:\\Users\\galla\\CS-484-Good-1\\Assignment 4\\Purchase_Likelihood.csv',
+inputData = pandas.read_csv('Assignment 4\\Purchase_Likelihood.csv',
                          delimiter=',')
 
 # insurance -> group_size, homeowner, married_couple

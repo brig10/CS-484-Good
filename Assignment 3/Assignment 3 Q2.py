@@ -31,7 +31,7 @@ def EntropyIntervalSplit (
   
    return(tableEntropy)
 
-cars = pandas.read_csv('C:\\Users\\galla\\CS-484-Good-1\\Assignment 3\\claim_history.csv', delimiter=',')
+cars = pandas.read_csv('C:\\Users\\galla\\CS-484-Good-2\\Assignment 3\\claim_history.csv', delimiter=',')
 key = [len(cars)]
 j = 0
 for i in range(len(cars)):
